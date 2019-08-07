@@ -395,6 +395,216 @@ const cardsArray = [
     name: "zubat",
     img: "assets/images/zubat.gif"
   },
+  {
+    name: "abomasnow",
+    img: "assets/images/abomasnow.gif"
+  },
+  {
+    name: "absol",
+    img: "assets/images/absol.gif"
+  },
+  {
+    name: "aggron",
+    img: "assets/images/aggron.gif"
+  },
+  {
+    name: "arbok",
+    img: "assets/images/arbok.gif"
+  },
+  {
+    name: "beedrill",
+    img: "assets/images/beedrill.gif"
+  },
+  {
+    name: "blastoise",
+    img: "assets/images/blastoise.gif"
+  },
+  {
+    name: "blissey",
+    img: "assets/images/blissey.gif"
+  },
+  {
+    name: "braviary",
+    img: "assets/images/braviary.gif"
+  },
+  {
+    name: "clefairy",
+    img: "assets/images/clefairy.gif"
+  },
+  {
+    name: "crawdaunt",
+    img: "assets/images/crawdaunt.gif"
+  },
+  {
+    name: "dodrio",
+    img: "assets/images/dodrio.gif"
+  },
+  {
+    name: "drifblim",
+    img: "assets/images/drifblim.gif"
+  },
+  {
+    name: "dugtrio",
+    img: "assets/images/dugtrio.gif"
+  },
+  {
+    name: "dusknoir",
+    img: "assets/images/dusknoir.gif"
+  },
+  {
+    name: "electivire",
+    img: "assets/images/electivire.gif"
+  },
+  {
+    name: "fearow",
+    img: "assets/images/fearow.gif"
+  },
+  {
+    name: "heatran",
+    img: "assets/images/heatran.gif"
+  },
+  {
+    name: "hitmonchan",
+    img: "assets/images/hitmonchan.gif"
+  },
+  {
+    name: "hitmonlee",
+    img: "assets/images/hitmonlee.gif"
+  },
+  {
+    name: "ho-oh",
+    img: "assets/images/ho-oh.gif"
+  },
+  {
+    name: "kabutops",
+    img: "assets/images/kabutops.gif"
+  },
+  {
+    name: "kangaskhan",
+    img: "assets/images/kangaskhan.gif"
+  },
+  {
+    name: "lugia",
+    img: "assets/images/lugia.gif"
+  },
+  {
+    name: "magcargo",
+    img: "assets/images/magcargo.gif"
+  },
+  {
+    name: "magnezone",
+    img: "assets/images/magnezone.gif"
+  },
+  {
+    name: "mamowswine",
+    img: "assets/images/mamoswine.gif"
+  },
+  {
+    name: "mawile",
+    img: "assets/images/mawile.gif"
+  },
+  {
+    name: "miltank",
+    img: "assets/images/miltank.gif"
+  },
+  {
+    name: "moltres",
+    img: "assets/images/moltres.gif"
+  },
+  {
+    name: "munchlax",
+    img: "assets/images/munchlax.gif"
+  },
+  {
+    name: "nidorino",
+    img: "assets/images/nidorino.gif"
+  },
+  {
+    name: "octillery",
+    img: "assets/images/octillery.gif"
+  },
+  {
+    name: "parasect",
+    img: "assets/images/parasect.gif"
+  },
+  {
+    name: "primeape",
+    img: "assets/images/primeape.gif"
+  },
+  {
+    name: "raichu",
+    img: "assets/images/raichu.gif"
+  },
+  {
+    name: "raikou",
+    img: "assets/images/raikou.gif"
+  },
+  {
+    name: "rampardos",
+    img: "assets/images/rampardos.gif"
+  },
+  {
+    name: "regigigas",
+    img: "assets/images/regigigas.gif"
+  },
+  {
+    name: "scizor",
+    img: "assets/images/scizor.gif"
+  },
+  {
+    name: "seadra",
+    img: "assets/images/seadra.gif"
+  },
+  {
+    name: "slaking",
+    img: "assets/images/slaking.gif"
+  },
+  {
+    name: "slowbro",
+    img: "assets/images/slowbro.gif"
+  },
+  {
+    name: "spearow",
+    img: "assets/images/spearow.gif"
+  },
+  {
+    name: "terrakion",
+    img: "assets/images/terrakion.gif"
+  },
+  {
+    name: "tropius",
+    img: "assets/images/tropius.gif"
+  },
+  {
+    name: "ursaring",
+    img: "assets/images/ursaring.gif"
+  },
+  {
+    name: "venusaur",
+    img: "assets/images/venusaur.gif"
+  },
+  {
+    name: "vileplume",
+    img: "assets/images/vileplume.gif"
+  },
+  {
+    name: "volbeat",
+    img: "assets/images/volbeat.gif"
+  },
+  {
+    name: "volcarona",
+    img: "assets/images/volcarona.gif"
+  },
+  {
+    name: "whiscash",
+    img: "assets/images/whiscash.gif"
+  },
+  {
+    name: "zapdos",
+    img: "assets/images/zapdos.gif"
+  }
+
+
 
 
 
