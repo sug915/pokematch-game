@@ -602,12 +602,463 @@ const cardsArray = [
   {
     name: "zapdos",
     img: "assets/images/zapdos.gif"
+  },
+  {
+    name: "armaldo",
+    img: "assets/images/armaldo.gif"
+  },
+  {
+    name: "azumarill",
+    img: "assets/images/azumarill.gif"
+  },
+  {
+    name: "bagon",
+    img: "assets/images/bagon.gif"
+  },
+  {
+    name: "baltoy",
+    img: "assets/images/baltoy.gif"
+  },
+  {
+    name: "banette",
+    img: "assets/images/banette.gif"
+  },
+  {
+    name: "bayleef",
+    img: "assets/images/bayleef.gif"
+  },
+  {
+    name: "bibarel",
+    img: "assets/images/bibarel.gif"
+  },
+  {
+    name: "breloom",
+    img: "assets/images/breloom.gif"
+  },
+  {
+    name: "butterfree",
+    img: "assets/images/butterfree.gif"
+  },
+  {
+    name: "cacturne",
+    img: "assets/images/cacturne.gif"
+  },
+  {
+    name: "camerupt",
+    img: "assets/images/camerupt.gif"
+  },
+  {
+    name: "carvanha",
+    img: "assets/images/carvanha.gif"
+  },
+  {
+    name: "caterpie",
+    img: "assets/images/caterpie.gif"
+  },
+  {
+    name: "charmander",
+    img: "assets/images/charmander.gif"
+  },
+  {
+    name: "charmeleon",
+    img: "assets/images/charmeleon.gif"
+  },
+  {
+    name: "clamperl",
+    img: "assets/images/clamperl.gif"
+  },
+  {
+    name: "clefable",
+    img: "assets/images/clefable.gif"
+  },
+  {
+    name: "cloyster",
+    img: "assets/images/cloyster.gif"
+  },
+  {
+    name: "corsola",
+    img: "assets/images/corsola.gif"
+  },
+  {
+    name: "cradily",
+    img: "assets/images/cradily.gif"
+  },
+  {
+    name: "croconaw",
+    img: "assets/images/croconaw.gif"
+  },
+  {
+    name: "dunsparce",
+    img: "assets/images/dunsparce.gif"
+  },
+  {
+    name: "ekans",
+    img: "assets/images/ekans.gif"
+  },
+  {
+    name: "electabuzz",
+    img: "assets/images/electabuzz.gif"
+  },
+  {
+    name: "electrode",
+    img: "assets/images/electrode.gif"
+  },
+  {
+    name: "entei",
+    img: "assets/images/entei.gif"
+  },
+  {
+    name: "espeon",
+    img: "assets/images/espeon.gif"
+  },
+  {
+    name: "feraligatr",
+    img: "assets/images/feraligatr.gif"
+  },
+  {
+    name: "flaaffy",
+    img: "assets/images/flaaffy.gif"
+  },
+  {
+    name: "flareon",
+    img: "assets/images/flareon.gif"
+  },
+  {
+    name: "forretress",
+    img: "assets/images/forretress.gif"
+  },
+  {
+    name: "furret",
+    img: "assets/images/furret.gif"
+  },
+  {
+    name: "gardevoir",
+    img: "assets/images/gardevoir.gif"
+  },
+  {
+    name: "glalie",
+    img: "assets/images/glalie.gif"
+  },
+  {
+    name: "goldeen",
+    img: "assets/images/goldeen.gif"
+  },
+  {
+    name: "whiscash",
+    img: "assets/images/whiscash.gif"
+  },
+  {
+    name: "groudon",
+    img: "assets/images/groudon.gif"
+  },
+  {
+    name: "hariyama",
+    img: "assets/images/hariyama.gif"
+  },
+  {
+    name: "hitmontop",
+    img: "assets/images/hitmontop.gif"
+  },
+  {
+    name: "houndoom",
+    img: "assets/images/houndoom.gif"
+  },
+  {
+    name: "huntail",
+    img: "assets/images/huntail.gif"
+  },
+  {
+    name: "hypno",
+    img: "assets/images/hypno.gif"
+  },
+  {
+    name: "jirachi",
+    img: "assets/images/jirachi.gif"
+  },
+  {
+    name: "jolteon",
+    img: "assets/images/jolteon.gif"
+  },
+  {
+    name: "jumpluff",
+    img: "assets/images/jumpluff.gif"
+  },
+  {
+    name: "kakuna",
+    img: "assets/images/kakuna.gif"
+  },
+  {
+    name: "kingdra",
+    img: "assets/images/kingdra.gif"
+  },
+  {
+    name: "kingler",
+    img: "assets/images/kingler.gif"
+  },
+  {
+    name: "koffing",
+    img: "assets/images/koffing.gif"
+  },
+  {
+    name: "kyogre",
+    img: "assets/images/kyogre.gif"
+  },
+  {
+    name: "lanturn",
+    img: "assets/images/lanturn.gif"
+  },
+  {
+    name: "larvitar",
+    img: "assets/images/larvitar.gif"
+  },
+  {
+    name: "latios",
+    img: "assets/images/latios.gif"
+  },
+  {
+    name: "latias",
+    img: "assets/images/latias.gif"
+  },
+  {
+    name: "whiscash",
+    img: "assets/images/whiscash.gif"
+  },
+  {
+    name: "ledyba",
+    img: "assets/images/ledyba.gif"
+  },
+  {
+    name: "loudred",
+    img: "assets/images/loudred.gif"
+  },
+  {
+    name: "ludicolo",
+    img: "assets/images/ludicolo.gif"
+  },
+  {
+    name: "lunatone",
+    img: "assets/images/lunatone.gif"
+  },
+  {
+    name: "magby",
+    img: "assets/images/magby.gif"
+  },
+  {
+    name: "magmar",
+    img: "assets/images/magmar.gif"
+  },
+  {
+    name: "manectric",
+    img: "assets/images/manectric.gif"
+  },
+  {
+    name: "mantine",
+    img: "assets/images/mantine.gif"
+  },
+  {
+    name: "marowak",
+    img: "assets/images/marowak.gif"
+  },
+  {
+    name: "masquerain",
+    img: "assets/images/masquerain.gif"
+  },
+  {
+    name: "meditite",
+    img: "assets/images/meditite.gif"
+  },
+  {
+    name: "meganium",
+    img: "assets/images/meganium.gif"
+  },
+  {
+    name: "misdreavus",
+    img: "assets/images/misdreavus.gif"
+  },
+  {
+    name: "mr-mime",
+    img: "assets/images/mr-mime.gif"
+  },
+  {
+    name: "muk",
+    img: "assets/images/muk.gif"
+  },
+  {
+    name: "natu",
+    img: "assets/images/natu.gif"
+  },
+  {
+    name: "noctowl",
+    img: "assets/images/noctowl.gif"
+  },
+  {
+    name: "omastar",
+    img: "assets/images/omastar.gif"
+  },
+  {
+    name: "pelipper",
+    img: "assets/images/pelipper.gif"
+  },
+  {
+    name: "persian",
+    img: "assets/images/persian.gif"
+  },
+  {
+    name: "pidgeotto",
+    img: "assets/images/pidgeotto.gif"
+  },
+  {
+    name: "pineco",
+    img: "assets/images/pineco.gif"
+  },
+  {
+    name: "porygon2",
+    img: "assets/images/porygon2.gif"
+  },
+  {
+    name: "qwilfish",
+    img: "assets/images/qwilfish.gif"
+  },
+  {
+    name: "regice",
+    img: "assets/images/regice.gif"
+  },
+  {
+    name: "regirock",
+    img: "assets/images/regirock.gif"
+  },
+  {
+    name: "registeel",
+    img: "assets/images/registeel.gif"
+  },
+  {
+    name: "relicanth",
+    img: "assets/images/relicanth.gif"
+  },
+  {
+    name: "sandshrew",
+    img: "assets/images/sandshrew.gif"
+  },
+  {
+    name: "sceptile",
+    img: "assets/images/sceptile.gif"
+  },
+  {
+    name: "sealeo",
+    img: "assets/images/sealeo.gif"
+  },
+  {
+    name: "seviper",
+    img: "assets/images/seviper.gif"
+  },
+  {
+    name: "shedinja",
+    img: "assets/images/shedinja.gif"
+  },
+  {
+    name: "shieldon",
+    img: "assets/images/shieldon.gif"
+  },
+  {
+    name: "shiftry",
+    img: "assets/images/shiftry.gif"
+  },
+  {
+    name: "shroomish",
+    img: "assets/images/shroomish.gif"
+  },
+  {
+    name: "shuckle",
+    img: "assets/images/shuckle.gif"
+  },
+  {
+    name: "skarmory",
+    img: "assets/images/skarmory.gif"
+  },
+  {
+    name: "solrock",
+    img: "assets/images/solrock.gif"
+  },
+  {
+    name: "spinarak",
+    img: "assets/images/spinarak.gif"
+  },
+  {
+    name: "spinda",
+    img: "assets/images/spinda.gif"
+  },
+  {
+    name: "stantler",
+    img: "assets/images/stantler.gif"
+  },
+  {
+    name: "staryu",
+    img: "assets/images/staryu.gif"
+  },
+  {
+    name: "swalot",
+    img: "assets/images/swalot.gif"
+  },
+  {
+    name: "swampert",
+    img: "assets/images/swampert.gif"
+  },
+  {
+    name: "taillow",
+    img: "assets/images/taillow.gif"
+  },
+  {
+    name: "tauros",
+    img: "assets/images/tauros.gif"
+  },
+  {
+    name: "teddiursa",
+    img: "assets/images/teddiursa.gif"
+  },
+  {
+    name: "torkoal",
+    img: "assets/images/torkoal.gif"
+  },
+  {
+    name: "trapinch",
+    img: "assets/images/trapinch.gif"
+  },
+  {
+    name: "umbreon",
+    img: "assets/images/umbreon.gif"
+  },
+  {
+    name: "unown-a",
+    img: "assets/images/unown-a.gif"
+  },
+  {
+    name: "vaporeon",
+    img: "assets/images/vaporeon.gif"
+  },
+  {
+    name: "vigoroth",
+    img: "assets/images/vigoroth.gif"
+  },
+  {
+    name: "walrein",
+    img: "assets/images/walrein.gif"
+  },
+  {
+    name: "wartortle",
+    img: "assets/images/wartortle.gif"
+  },
+  {
+    name: "weedle",
+    img: "assets/images/weedle.gif"
+  },
+  {
+    name: "wigglytuff",
+    img: "assets/images/wigglytuff.gif"
+  },
+  {
+    name: "zangoose",
+    img: "assets/images/zangoose.gif"
   }
-
-
-
-
-
 
 ];
 
