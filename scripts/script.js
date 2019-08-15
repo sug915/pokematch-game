@@ -744,10 +744,6 @@ const cardsArray = [
     img: "assets/images/goldeen.gif"
   },
   {
-    name: "whiscash",
-    img: "assets/images/whiscash.gif"
-  },
-  {
     name: "groudon",
     img: "assets/images/groudon.gif"
   },
@@ -818,10 +814,6 @@ const cardsArray = [
   {
     name: "latias",
     img: "assets/images/latias.gif"
-  },
-  {
-    name: "whiscash",
-    img: "assets/images/whiscash.gif"
   },
   {
     name: "ledyba",
